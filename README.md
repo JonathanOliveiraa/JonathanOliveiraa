@@ -17,6 +17,12 @@
 
 ![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python)
 
+## Database
+
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+
 ## Estaátística GITHUB
 
 ![GitHub St](https://github-readme-stats.vercel.app/api?username=JonathanOliveiraa&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
