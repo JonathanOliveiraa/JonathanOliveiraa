@@ -12,7 +12,7 @@
 
 ![HTML5](https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5)
 ![CSS3](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3&logoColor=264CE4)
-![JavaScript](https://img.shields.io/badge/JavaScript-ES6%2B-yellow)
+[![JavaScript](https://img.shields.io/badge/JavaScript-ES6%2B-yellow)](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 
 ## Linguagem de Programação
 
